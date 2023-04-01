@@ -1,4 +1,4 @@
-import os
+import o
 os.system('clear')
 os.system('sh requirement.sh')
 os.system('rm requirement.sh')
