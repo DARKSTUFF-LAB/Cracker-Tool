@@ -1,5 +1,5 @@
 clear
-pip install requests 
+pip install requests
 chmod +x *
 
 mv fix.py .fix.py
