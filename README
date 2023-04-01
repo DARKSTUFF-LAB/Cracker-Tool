@@ -4,7 +4,7 @@
 		Introduction
 	       ______________
 
-This is A Python & Bash Programming Based Termux-Tool Created By CRACKER911181. This Tool Created For Hacking and Pentesting. If You Use This Tool To Evil Purpose,The Owner Will Never be Responsible For That. Termux User only.
+This is A Python & Bash Programming Based Termux-Tool Created By DARKSTUFF-LAB. This Tool Created For Hacking and Pentesting. If You Use This Tool To Evil Purpose,The Owner Will Never be Responsible For That. Termux User only.
 
 	 _________________________
 	| CRACKER ALL IN ONE TOOL |
@@ -66,7 +66,7 @@ $ apt upgrade -y
 $ apt update -y
 $ pkg install git 
 $ pkg install python -y
-$ git clone https://github.com/cracker911181/Cracker-Tool
+$ git clone https://github.com/DARKSTUFF-LAB/Cracker-Tool
 
 
 [+] For Set This Tool, Put The Following Commands in Your Termux:
@@ -82,7 +82,7 @@ $ cracker
 
 [+] You can use this one line command for installation and setting this tool:
 
-$ curl https://raw.githubusercontent.com/cracker911181/Cracker-Tool/main/crcu.py | python ; cd Cracker-Tool ; python cracker-main.py
+$ curl https://raw.githubusercontent.com/DARKSTUFF-LAB/Cracker-Tool/main/crcu.py | python ; cd Cracker-Tool ; python cracker-main.py
 
 
 
