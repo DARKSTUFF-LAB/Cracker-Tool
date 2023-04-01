@@ -1,5 +1,5 @@
-# Coded by cracker 
-# CRACKER911181  
+# Coded by DARKSTUFF 
+# DARKSTUFF-LAB 
  
 
 import base64, codecs
