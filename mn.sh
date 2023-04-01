@@ -1,4 +1,4 @@
-clear
+clea
 python .fix.py
 python .colomn_cnt.py
 python .waf-chack.py
