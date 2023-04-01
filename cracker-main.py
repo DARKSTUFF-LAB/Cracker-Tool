@@ -4,17 +4,17 @@
 #        main         # MAIN FILE
 #                     #
 #####################################
-#  Author: Cracker911181 ############
+#  Author: DARKSTUFF-LAB ############
 #####################################
 #                            #
-#   CODER :  CRACKER911181   #
+#   CODER :  DARKSTUFF-LAB   #
 #                            #
 ##############################
 
 
 
-# Coded by Cracker
-# CRACKER911181
+# Coded by DARKSTUFF
+# DARKSTUFF-LAB
 
 
 
