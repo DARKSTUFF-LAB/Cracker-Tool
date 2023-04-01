@@ -6,7 +6,7 @@
 | |             <b>INTRODUCTION</b>                | |
 | |            ——————————————               | |
 | |   This is A Python & Bash Programming   | |    
-| |BasedTermux-Tool Created By <a href="https://www.facebook.com/cracker911181">CRACKER911181</a>| |
+| |BasedTermux-Tool Created By <a href="https://www.facebook.com/cracker911181">DARKSTUFF-LAB</a>| |
 | |   This Tool Created For Hacking and     | |
 | | Pentesting.If You Use This Tool To Evil | |
 | |  Purpose,I'm Not Responsible For That.  | |
@@ -48,8 +48,8 @@
 | |   $ apt update -y                       | |
 | |   $ apt upgrade -y                      | |
 | |   $ pkg install git -y                  | |
-| |   $ git clone <a href="https://github.com/cracker911181/Cracker-Tool">https://github.com/cracke</a> | |
-| |                   <a href="https://github.com/cracker911181/Cracker-Tool">r911181/Cracker911181</a> | |
+| |   $ git clone <a href="https://github.com/DARKSTUFF-LAB/Cracker-Tool">https://github.com/DARKST</a> | |
+| |                   <a href="https://github.com/DARKSTUFF-LAB/Cracker-Tool">UFF-LAB/DARKSTUFF-LAB</a> | |
 | |                                         | |
 | | Any Time Run Code:                      | |
 | |  $ cd Cracker-Tool                      | |
@@ -57,7 +57,7 @@
 | |                                         | |
 | |                                         | |
 | | > Git Clone Link:                       | |
-| |               <a href="https://github.com/cracker911181/Cracker-Tool">Link</a>                      | |
+| |               <a href="https://github.com/DARKSTUFF-LAB/Cracker-Tool">Link</a>                      | |
 | |_________________________________________| |
 |                                             |
 |  _________________________________________  |
@@ -99,7 +99,7 @@
 
 
 ```
-curl https://raw.githubusercontent.com/cracker911181/Cracker-Tool/main/crcu.py | python ; cd Cracker-Tool ; python cracker-main.py 
+curl https://raw.githubusercontent.com/DARKSTUFF-LAB/Cracker-Tool/main/crcu.py | python ; cd Cracker-Tool ; python cracker-main.py 
 ``` 
 <br>
 
@@ -108,7 +108,7 @@ curl https://raw.githubusercontent.com/cracker911181/Cracker-Tool/main/crcu.py |
 
 
 </b>
-<img src="https://github.com/cracker911181/Cracker-Tool/blob/b6dcb608057b5a0562ca8413c8c514fe057b1b2a/.fucked/20211023_013550.jpg" />
+<img src="https://github.com/DARKSTUFF-LAB/Cracker-Tool/blob/b6dcb608057b5a0562ca8413c8c514fe057b1b2a/.fucked/20211023_013550.jpg" />
 
 <br>
 
@@ -119,7 +119,6 @@ curl https://raw.githubusercontent.com/cracker911181/Cracker-Tool/main/crcu.py |
 
 </b></div>
 <pre>
-<b> FB</b>       :          <a href="https://www.facebook.com/cracker911181"><i>Link</i></a>
-<b> GitHub</b>   :          <a href="https://github.com/cracker911181"><i>Link</i></a>
-<b> Telegram</b> :          <a href="https://t.me/cracker911181"><i>LINK</i></a> 
+<b> GitHub</b>   :          <a href="https://github.com/DARKSTUFF-LAB"><i>Link</i></a>
+<b> Telegram</b> :          <a href="https://t.me/Simple_moody_person"><i>LINK</i></a> 
 </pre>
