@@ -4,7 +4,7 @@ echo
 echo "	Tool Updating"
 echo
 
-git clone https://github.com/cracker911181/Cracker-Tool
+git clone https://github.com/DARKSTUFF-LAB/Cracker-Tool
 cd Cracker-Tool
 
 echo
